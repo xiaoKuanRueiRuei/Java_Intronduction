@@ -1,0 +1,3 @@
+JFrame 是指最簡易版的框架
+Text Field 單行文字方塊
+Text Area 多行文字方塊

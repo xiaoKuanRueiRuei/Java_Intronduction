@@ -1,0 +1,20 @@
+name = [Ricky]
+total = 276
+average = 92.00
+
+name = [Mike]
+total = 246
+average = 82.00
+
+name = [Cindy]
+total = 207
+average = 69.00
+
+name = [May]
+total = 168
+average = 56.00
+
+name = [Ray]
+total = 160
+average = 53.33
+
